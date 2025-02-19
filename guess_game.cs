@@ -1,5 +1,6 @@
 //guessing game code
-
+--
+//Documentation from Branch2
 using System;
 using System.Collections.Generic;
 using System.Text;
