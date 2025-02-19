@@ -1,5 +1,7 @@
 //guessing game code
 //Documentation from branch1
+//Documentation from Branch2
+>>>>>>> branch2
 using System;
 using System.Collections.Generic;
 using System.Text;
